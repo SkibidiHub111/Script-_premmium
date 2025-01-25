@@ -1,3 +1,4 @@
 getgenv().Team = "Marines"
 getgenv().Hide_Menu = false
-getgenv().Auto_Execute =false loadstring(game:HttpGet("https://raw.githubusercontent.com/SkibidiHub111/Skibidi_2/refs/heads/main/script.lua"))()
+getgenv().Auto_Execute =false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkibidiHub111/Skibidi_2/refs/heads/main/script.lua"))()
